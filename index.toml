@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".idea/inspectionProfiles/Project_Default.xml"
+hash = "2ff5f735d9f05f4fd32666fd4290ffb68ca7e7d38bc5b75b5e3ab46197e55d4f"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "5c4e306f00f3680bcb26892a3b8c193a0cb9de4253c71343e76a188ef9462b77"
+
+[[files]]
+file = ".idea/tyr-minecraft-modpack.iml"
+hash = "035fd8fa90a68984b9c6ae2b35599ec30c045be661882ab8bf638bedfa60e221"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "cd77aa60bd80aaf88b1fb4a64a96337e1d39507ff83b3a8659fb24eab29997e4"
+
+[[files]]
+file = "readme.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
