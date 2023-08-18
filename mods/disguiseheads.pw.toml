@@ -1,0 +1,13 @@
+name = "DisguiseHeads"
+filename = "disguiseheads-fabric-1.0.1-mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f1959d6c7f2f6429a75ad5f5deb81a7bac02275"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4060400
+project-id = 593611

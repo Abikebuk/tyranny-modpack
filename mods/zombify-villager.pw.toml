@@ -1,0 +1,13 @@
+name = "Zombify Villager"
+filename = "fampat-zombify-0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbefe3468a40d50d1e9fa5ab95e3eadfafd7476a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4277973
+project-id = 558431

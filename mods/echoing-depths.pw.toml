@@ -1,0 +1,13 @@
+name = "Echoing Depths"
+filename = "descent-into-depths-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d33924e7d16d28476cde86584c8c1bf81f6425dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932384
+project-id = 659151

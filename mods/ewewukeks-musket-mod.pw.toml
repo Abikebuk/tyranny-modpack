@@ -1,0 +1,13 @@
+name = "ewewukek's Musket mod"
+filename = "musketmod-1.19.2-fabric-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcb6c90a324b58be5462bebed36b030d2f98f466"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4033562
+project-id = 354562

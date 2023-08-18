@@ -1,0 +1,13 @@
+name = "TugkanDeMan's Weaponry"
+filename = "twm-1.19.2-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae07cdd92760ed8bc3b2fab108eae562032c2ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4413646
+project-id = 829888

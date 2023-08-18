@@ -1,0 +1,13 @@
+name = "More End Cities"
+filename = "starbidous-more-end-cities-fabric-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1847e41c9253b82c28bc8dbac948df280a4f66d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023018
+project-id = 687230

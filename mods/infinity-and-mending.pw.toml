@@ -1,0 +1,13 @@
+name = "Infinity and Mending"
+filename = "infinity-and-mending-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e662aa700d35ec5bcd6597e70a638c7b05febae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327808
+project-id = 807370

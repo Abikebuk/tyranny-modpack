@@ -1,0 +1,13 @@
+name = "Dig's DnD Origins"
+filename = "digs_dnd_origins-1.19.2-0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83521f37d5f77a26fb0dc5305bdd3315f50edfec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4627100
+project-id = 861299

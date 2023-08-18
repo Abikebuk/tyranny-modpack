@@ -1,0 +1,13 @@
+name = "Good Ending"
+filename = "Good Ending-1.19.2-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "122cc192848200e2b992b913fc63fc1e684eb2ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4363716
+project-id = 690161

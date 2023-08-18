@@ -1,0 +1,13 @@
+name = "Queen Cats & Dogs"
+filename = "queen-cats-1.0.4-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57adf2cf59e89f866cec04bf576d2d899709c726"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4487945
+project-id = 684706

@@ -1,0 +1,13 @@
+name = "Disable enderman picking up blocks"
+filename = "disable-enderman-picking-up-blocks-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef4a415d0c066bf4336ce8c486d14f053bc56843"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4174403
+project-id = 736935

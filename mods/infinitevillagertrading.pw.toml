@@ -1,0 +1,13 @@
+name = "InfiniteVillagerTrading"
+filename = "infinitevillagertrading-1.19.1-fabric0.58.5-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f01429cc1e293b383ffc8514f17f68f97585406"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907262
+project-id = 392254

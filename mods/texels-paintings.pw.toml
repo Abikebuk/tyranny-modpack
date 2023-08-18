@@ -1,0 +1,13 @@
+name = "Texels Paintings"
+filename = "TexelsPaintings-fabric-1.19.2-6.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e19ec6913ca7d53ae18f8e3853a2bd0832f39df2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4510020
+project-id = 749675

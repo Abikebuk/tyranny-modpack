@@ -1,0 +1,13 @@
+name = "Expanded Armor Enchanting"
+filename = "expanded-armor-enchanting-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17f9b339330d84cfb9418df4f1fc0c33ec7fc3e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3933905
+project-id = 486303

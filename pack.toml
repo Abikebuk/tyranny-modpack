@@ -1,13 +1,13 @@
 name = "Tyranny's Modpack"
-author = "Myon & Abikebuk"
+author = "Myon, Abikebuk"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cf09cc2a5238bdae3718fa6fab6c1b95b60a48001198a52f83ecd6442672ee19"
+hash = "6ad05c53588f855f3fb6a29ff86b6dd6100f1b75587a1963ad21b6f5b1504b4a"
 
 [versions]
+fabric = "0.14.22"
 minecraft = "1.19.2"
-quilt = "0.19.4"

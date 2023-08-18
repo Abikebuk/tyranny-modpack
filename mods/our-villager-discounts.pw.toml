@@ -1,0 +1,13 @@
+name = "Our Villager Discounts"
+filename = "our-villager-discounts-1.19.2+build.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e33f5bc22835a3f8b730b7add4d46e6ab5ec671"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025453
+project-id = 635348

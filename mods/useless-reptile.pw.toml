@@ -1,0 +1,13 @@
+name = "Useless Reptile"
+filename = "uselessreptile-0.2.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e2bca58a9bb73aa76c7a94175db5709189f1af1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595599
+project-id = 677634

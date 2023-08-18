@@ -1,0 +1,13 @@
+name = "Fast Portals"
+filename = "fastportals-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45fb7dd5d93124a244cd08a0256acfc585e5cf1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593350
+project-id = 807397
