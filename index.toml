@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-blocker.pw.toml"
-hash = "2c8d8fe080782d854f289c233b8dc9892783734a7e1e8f92508388128e638aaa"
+hash = "75d1dc1e50d67ff42dbf6c26c6c556908fb096b0f98642a1ff90b15e7217c454"
 metafile = true
 
 [[files]]
@@ -868,11 +868,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a7a2599342362f2240a4f1fee7f090d9920a3af4c7937fc6237787e7e0aa05d0"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
 metafile = true
 
 [[files]]
