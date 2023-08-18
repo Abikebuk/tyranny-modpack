@@ -631,11 +631,6 @@ hash = "23975b9e206bd0756ee90df1d76ecefa0b92378048d3e6780a3ee2c360f348ee"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "bc44716a4613b189020226f70fc294a3150a98feaa23f8b2a9ad7723093fdef1"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "f355c685abfa0e4ac908a5e74460893412a7f4c4057ff27cae8776feb7fca7dc"
 metafile = true
@@ -843,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/particle-blocker.pw.toml"
 hash = "2c8d8fe080782d854f289c233b8dc9892783734a7e1e8f92508388128e638aaa"
-metafile = true
-
-[[files]]
-file = "mods/partyaddon.pw.toml"
-hash = "14e07d6195be5b94f6c6476ec33993e44e0e3db1d5aaa666a50fbf45a1c5e3a1"
 metafile = true
 
 [[files]]
