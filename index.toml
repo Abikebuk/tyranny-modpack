@@ -681,11 +681,6 @@ hash = "2f21c09c3820400ab503e639e01c4b5f32e21e5d6d4146ee2eaf93122e5b6339"
 metafile = true
 
 [[files]]
-file = "mods/levelz.pw.toml"
-hash = "6d34fd72579c5d07d58a23fb5849d27191672b0fe6136e9d174d57c65bb41104"
-metafile = true
-
-[[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "15961eaca493ab4139541d78a58b685de2bd9a7f49979d5c495d963dabb88ad9"
 metafile = true
