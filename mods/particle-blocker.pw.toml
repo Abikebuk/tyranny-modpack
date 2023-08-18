@@ -1,6 +1,6 @@
 name = "Particle Blocker"
 filename = "Particle-Blocker.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
