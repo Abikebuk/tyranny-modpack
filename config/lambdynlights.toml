@@ -1,0 +1,83 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				chicken = true
+				item = true
+				glow_squid = true
+				bat = true
+				skeleton = true
+				squid = true
+				creeper = true
+				tropical_fish = true
+				zombie = true
+				axolotl = true
+				spider = true
+				bee = true
+				pig = true
+				tnt_minecart = true
+				cod = true
+				zombie_villager = true
+				pillager = true
+				villager = true
+				cat = true
+				wolf = true
+				boat = true
+				sheep = true
+				armor_stand = true
+
+			[light_sources.settings.entities.umu_little_maid]
+				little_maid = true
+
+			[light_sources.settings.entities.whisperwoods]
+				wisp = true
+				moth = true
+				zotzpyre = true
+
+			[light_sources.settings.entities.mythicmobs]
+				mushroom_thing = true
+				automaton = true
+
+			[light_sources.settings.entities.naturalist]
+				bass = true
+				duck = true
+				canary = true
+				bluejay = true
+				robin = true
+				snail = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.mythicmounts]
+				geckotoalizard = true
+				firebird = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+
